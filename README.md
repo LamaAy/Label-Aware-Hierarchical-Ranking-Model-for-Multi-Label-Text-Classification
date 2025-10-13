@@ -29,7 +29,7 @@
 ## 🏗️ Architecture Overview
 
 <p align="center">
-  <img src="assets/LHRM.png" width="100%" alt="LHRM Architecture">
+  <img src="assets/LHRM_ARCH.png" width="100%" alt="LHRM Architecture">
 </p>
 
 **Three main stages:**
