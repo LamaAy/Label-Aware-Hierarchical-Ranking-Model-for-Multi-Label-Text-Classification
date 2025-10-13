@@ -2,7 +2,7 @@
 
 **Authors:** Lama Ayash, Abdulmohsen Algarni, and Omar Alqahtani  
 **Affiliation:** Department of Computer Science, King Khalid University, Al Faraa, Abha, Aseer 61421, Saudi Arabia  
-**Corresponding author:** 444800100@kku.edu.sa  
+**Corresponding author:** lama.ayash@outlook.sa  
 **Funding:** This work was supported by the Deanship of Scientific Research and Graduate Studies at King Khalid University under Research Grant **R.G.P.2/21/46**.
 
 > **Abstract.** Multi-label text classification involves assigning multiple relevant categories to a single text, enabling applications in academic indexing, medical diagnostics, and e-commerce. However, existing models often fail to capture complex text–label relationships and lack robust mechanisms for ranking label relevance, limiting their effectiveness. This project presents the **Label-Aware Hierarchical Ranking Model (LHRM)**, which combines contextual embeddings, custom attention mechanisms, and gradient boosting to enhance label ranking. LHRM integrates document and label embeddings with a **Contextual Similarity Attention Module (CSAM)** to capture text–label relationships and inter-label dependencies, followed by a **Hierarchical Re-Ranking Module (HRRM)** for refining label prioritization. Experiments on **AAPD** and **Reuters-21578** show strong top-rank performance (e.g., **P@1: 86.90%** and **94.47%**, respectively), offering accurate, context-aware, and practically applicable multi-label predictions.
