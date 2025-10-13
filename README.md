@@ -27,6 +27,7 @@ LHRM operates in **three stages**:
 > You can include your figures under `assets/` and reference them here, e.g.:
 > - `assets/lhrm_architecture.png` (Fig. 2)
 > - `assets/label_clusters.png` (Fig. 3)
+![Uploading image.png…]()
 
 ---
 
