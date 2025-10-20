@@ -7,7 +7,6 @@
 [![Torch](https://img.shields.io/badge/PyTorch-2.x-red?style=for-the-badge)](https://pytorch.org/)
 
 ---
-
 **Authors:** Lama Ayash, Abdulmohsen Algarni, and Omar Alqahtani  
 **Affiliation:** Department of Computer Science, King Khalid University, Al Faraa, Abha, Aseer 61421, Saudi Arabia  
 **Corresponding author:** lama.ayash@outlook.sa  
