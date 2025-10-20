@@ -125,11 +125,7 @@ If you use LHRM in your research, please cite:
 }
 ```
 
----
 
-## 📄 License
-- Code: **Apache 2.0**  
-- Figures & paper text: **CC BY-NC-ND 4.0**
 
 ---
 
